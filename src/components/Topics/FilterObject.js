@@ -6,7 +6,7 @@ export default class FilterObject extends Component {
         super()
 
         this.state = {
-            Employees: [
+            employees: [
                 {
                   name: 'Jimmy Joe',
                   title: 'Hack0r',
